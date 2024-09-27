@@ -6,6 +6,7 @@
 - 🧑‍🎓 Learning GeoParquet, Rust, ThreeJS, PostGIS, and more about ML and Remote Sensing
 - 👍 I am a bash & CLI enthusiaist, an ideal morning for me is neovim, tmux, and a strong cup of coffee ☕☕☕  
 - 📫 erickerney@gmail.com
+- [Location Visualization Blog](https://location-artistry.github.io/)
 
 <!---
 eKerney/eKerney is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
