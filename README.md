@@ -8,7 +8,8 @@
 
 <p align="left"> <a href="https://twitter.com/locationartist" target="blank"><img src="https://img.shields.io/twitter/follow/locationartist?logo=twitter&style=for-the-badge" alt="locationartist" /></a> </p>
 
-
+I am a Senior Application Developer at [Blue Raster](https://www.blueraster.com/)   
+We build geospatially enabled Apps & Tools powering some of the best known NGOs and companies   
 - 🔭 Previously I was a [Geospatial Developer at Airspace Link](https://airspacelink.com/)
 
 
