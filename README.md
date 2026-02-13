@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm Eric Kerney a Devloper & Data Scientist</h1>
+<h1 align="center">Hi 👋 I'm Eric Kerney a Developer & Data Scientist</h1>
 <h3 align="center">Passionate Developer and Geospatial Innovator committed to tackling complex societal challenges with innovative technologies</h3>
 
 
