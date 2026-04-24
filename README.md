@@ -1,29 +1,22 @@
 <h1 align="center">Hi 👋 I'm Eric Kerney a Software Engineer & Spatial Data Scientist</h1>
-<h3 align="center">Passionate Developer and Geospatial Innovator committed to tackling complex societal challenges with innovative technologies</h3>
-
-
-
+<h3 align="center">Passionate Developer and Geospatial Innovator committed to tackling complex challenges with novel technologies</h3>
 
 <p align="left"> <a href="https://twitter.com/locationartist" target="blank"><img src="https://img.shields.io/twitter/follow/locationartist?logo=twitter&style=for-the-badge" alt="locationartist" /></a> </p>
 
- 
-
 I build full-stack data driven systems for startups, enterprise, and some of the best known NGOs.
-- Currenly I'm teaching a graduate course at [Western Michigan University](https://wmich.edu/environment) for GIS students to learning python data science analysis
+- Currenly I'm teaching a graduate course at [Western Michigan University](https://wmich.edu/environment) for GIS students learning python data science analysis
 - 🔭 Previously I was a [Geospatial Developer at Airspace Link](https://airspacelink.com/) & a Senior Application Developer at [Blue Raster](https://www.blueraster.com/)
-- 🤔I'm interested in [Aerospace, Mobility, Geospatial, Remote Sensing, Deep Learning and 3D spatial visualizations](https://airspacelink.com/blog/airspace-link-launches-airhub-portal-marketplace-offering-additional-partner-capabilities-for-integrating-and-managing-drones)
-- 💻Currently working with [React, TypeScript, TailwindCSS, D3, H3,](https://portal-sandbox.airspacelink.com/apps/flight-viewer) DeckGL, Cesium, GeoPandas and Matplotlib
+- At Airspace Link I built the [AirHub Portal Marketplace](https://airspacelink.com/blog/airspace-link-launches-airhub-portal-marketplace-offering-additional-partner-capabilities-for-integrating-and-managing-drones), an App store like ecosystem for drone integrations
+- 💻 Currently building spatial [AI powered Apps exploring Discrete Global Grid Systems](https://ekerney.github.io/d3geo-dggs/) for data aggregation and visualizations - [post](https://www.linkedin.com/posts/eric-kerney_d3geo-h3geo-a5geo-ugcPost-7450568964503445504-XUWW?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAtEkV0BohvGPqDYp4P4iwYIZDMOGucH_HI)
+- I'm working to contribute to the deck.gl and vis.gl open source ecosystem - https://visgl.github.io/deck.gl-community/
 - 🌎 [See my current explorations in Spatial Data and Maps for the #30DayMapChallenge2024](https://github.com/eKerney/30DayMapChallenge2024/tree/main)   
-- 🌱 I’m learning Rust, GeoParquet, GeoArrow, ThreeJS, PostGIS, and ML/Remote Sensing/Raster Data - [Advent of Code/Rust 2023](https://github.com/Location-Artistry/advent-of-code) 
+- 🌱 I’m learning Rust, GeoParquet, GeoArrow, STAC, ThreeJS, PostGIS, and ML/Remote Sensing/Raster Data - [Advent of Code/Rust 2023](https://github.com/Location-Artistry/advent-of-code) 
 - 📒 [Jupyter Notebooks from my conference presentations](https://github.com/Location-Artistry/GEO-NOTEBOOKS)
 - 📝 I occasionally write articles for my blog Location Artistry: [https://location-artistry.github.io/](https://location-artistry.github.io/)
 - 👨‍💻 [ObservableHQ Notebooks & Visualizations](https://observablehq.com/@location-artistry) 
 - 💽 More repos at [https://github.com/Location-Artistry](https://github.com/Location-Artistry)
 
-
 - 📫 email me at: **erickerney@gmail.com**
-
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
