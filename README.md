@@ -1,10 +1,15 @@
-<h1 align="center">Hi 👋 I'm Eric Kerney a Software Engineer & Spatial Data Scientist</h1>
-<h3 align="center">Passionate Developer and Geospatial Innovator committed to tackling complex challenges with novel technologies</h3>
+<h1 align="center">Hi 👋 I'm Eric Kerney a Software & Spatial AI Engineer</h1>
+<h3 align="center">Passionate Engineer & Geospatial Innovator tackling complex challenges with novel technologies</h3>
 
 <p align="left"> <a href="https://twitter.com/locationartist" target="blank"><img src="https://img.shields.io/twitter/follow/locationartist?logo=twitter&style=for-the-badge" alt="locationartist" /></a> </p>
 
-I build full-stack data driven systems for startups, enterprise, and some of the best known NGOs.
-- Currenly I'm teaching a graduate course at [Western Michigan University](https://wmich.edu/environment) for GIS students learning python data science analysis
+I Engineer full-stack data driven systems for startups, large enterprise, and some of the best known NGOs.        
+Senior Geospatial Application Engineer at [Onix Net](https://www.onixnet.com/) - Google Cloud Partner of the Year     
+My role is to architect, build, and deliver Google Maps Platforms software and systems throughout Enterprise & Tech      
+Industry domains: Logistics, Transportation, Commercial Real Estate, Insurance, Retail, Agentic AI      
+
+
+- I've been teaching a graduate course at [Western Michigan University](https://wmich.edu/environment) for GIS students learning python data analysis and GeoAI fundamentals
 - 🔭 Previously I was a [Geospatial Developer at Airspace Link](https://airspacelink.com/) & a Senior Application Developer at [Blue Raster](https://www.blueraster.com/)
 - At Airspace Link I built the [AirHub Portal Marketplace](https://airspacelink.com/blog/airspace-link-launches-airhub-portal-marketplace-offering-additional-partner-capabilities-for-integrating-and-managing-drones), an App store like ecosystem for drone integrations
 - 💻 Currently building spatial [AI powered Apps exploring Discrete Global Grid Systems](https://ekerney.github.io/d3geo-dggs/) for data aggregation and visualizations - [post](https://www.linkedin.com/posts/eric-kerney_d3geo-h3geo-a5geo-ugcPost-7450568964503445504-XUWW?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAtEkV0BohvGPqDYp4P4iwYIZDMOGucH_HI)
